@@ -28,3 +28,11 @@ npm i express-handlebars
 npm run dev
 ```
 If succeeded, Terminal will show "Restaurant list is running on http://localhost:3000", and you can use it on your browser with the address http://localhost:3000/
+
+# Environments and Utilities
++ Node.js v10.15.0
++ Express 4.17.1
++ Handlebars 5.2.0
++ bootstrap 4.2.1
++ jquery 3.3.1
++ Font Awesome
